@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: fc8e340cc819a5e46860a3aae100ed53
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Wand_Scene
+    100002: Wizard-Arm-left_Scene
+    100004: Wizard-Arm-right_Scene
+    100006: Wizard-Belt_Scene
+    100008: Wizard-Body_Scene
+    100010: Wizard-Eye-left_Scene
+    100012: Wizard-Eye-rigth_Scene
+    100014: Wizard-Feet_Scene
+    100016: Wizard-Hand-left_Scene
+    100018: Wizard-Head_Scene
+    100020: Wizard-Head_Scene_MeshPart0
+    100022: Wizard-Head_Scene_MeshPart1
+    100024: Wizard-Head_Scene_MeshPart2
+    100026: Wizard-Head_Scene_MeshPart3
+    100028: Wizard-Head_Scene_MeshPart4
+    100030: //RootNode
+    400000: Wand_Scene
+    400002: Wizard-Arm-left_Scene
+    400004: Wizard-Arm-right_Scene
+    400006: Wizard-Belt_Scene
+    400008: Wizard-Body_Scene
+    400010: Wizard-Eye-left_Scene
+    400012: Wizard-Eye-rigth_Scene
+    400014: Wizard-Feet_Scene
+    400016: Wizard-Hand-left_Scene
+    400018: Wizard-Head_Scene
+    400020: Wizard-Head_Scene_MeshPart0
+    400022: Wizard-Head_Scene_MeshPart1
+    400024: Wizard-Head_Scene_MeshPart2
+    400026: Wizard-Head_Scene_MeshPart3
+    400028: Wizard-Head_Scene_MeshPart4
+    400030: //RootNode
+    2300000: Wand_Scene
+    2300002: Wizard-Arm-left_Scene
+    2300004: Wizard-Arm-right_Scene
+    2300006: Wizard-Belt_Scene
+    2300008: Wizard-Body_Scene
+    2300010: Wizard-Eye-left_Scene
+    2300012: Wizard-Eye-rigth_Scene
+    2300014: Wizard-Feet_Scene
+    2300016: Wizard-Hand-left_Scene
+    2300018: Wizard-Head_Scene_MeshPart0
+    2300020: Wizard-Head_Scene_MeshPart1
+    2300022: Wizard-Head_Scene_MeshPart2
+    2300024: Wizard-Head_Scene_MeshPart3
+    2300026: Wizard-Head_Scene_MeshPart4
+    3300000: Wand_Scene
+    3300002: Wizard-Arm-left_Scene
+    3300004: Wizard-Arm-right_Scene
+    3300006: Wizard-Belt_Scene
+    3300008: Wizard-Body_Scene
+    3300010: Wizard-Eye-left_Scene
+    3300012: Wizard-Eye-rigth_Scene
+    3300014: Wizard-Feet_Scene
+    3300016: Wizard-Hand-left_Scene
+    3300018: Wizard-Head_Scene_MeshPart0
+    3300020: Wizard-Head_Scene_MeshPart1
+    3300022: Wizard-Head_Scene_MeshPart2
+    3300024: Wizard-Head_Scene_MeshPart3
+    3300026: Wizard-Head_Scene_MeshPart4
+    4300000: Wizard-Hand-left_Scene
+    4300002: Wizard-Arm-right_Scene
+    4300004: Wizard-Eye-rigth_Scene
+    4300006: Wizard-Eye-left_Scene
+    4300008: Wand_Scene
+    4300010: Wizard-Body_Scene
+    4300012: Wizard-Arm-left_Scene
+    4300014: Wizard-Feet_Scene
+    4300016: Wizard-Head_Scene_MeshPart0
+    4300018: Wizard-Head_Scene_MeshPart1
+    4300020: Wizard-Head_Scene_MeshPart2
+    4300022: Wizard-Head_Scene_MeshPart3
+    4300024: Wizard-Head_Scene_MeshPart4
+    4300026: Wizard-Belt_Scene
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

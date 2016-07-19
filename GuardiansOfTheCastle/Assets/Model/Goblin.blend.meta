@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: b478bca88e034b441a26de3e6c5535bb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Goblin
+    100004: GoblinArmature
+    100006: Head
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftLeg
+    100020: LeftShoulder
+    100022: LeftToeBase
+    100024: LeftUpLeg
+    100026: LHipJoint
+    100028: LowerBack
+    100030: Neck
+    100032: Neck1
+    100034: RHipJoint
+    100036: RightArm
+    100038: RightFoot
+    100040: RightForeArm
+    100042: RightHand
+    100044: RightLeg
+    100046: RightShoulder
+    100048: RightToeBase
+    100050: RightUpLeg
+    100052: Spine
+    100054: Spine1
+    400000: //RootNode
+    400002: Goblin
+    400004: GoblinArmature
+    400006: Head
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftLeg
+    400020: LeftShoulder
+    400022: LeftToeBase
+    400024: LeftUpLeg
+    400026: LHipJoint
+    400028: LowerBack
+    400030: Neck
+    400032: Neck1
+    400034: RHipJoint
+    400036: RightArm
+    400038: RightFoot
+    400040: RightForeArm
+    400042: RightHand
+    400044: RightLeg
+    400046: RightShoulder
+    400048: RightToeBase
+    400050: RightUpLeg
+    400052: Spine
+    400054: Spine1
+    4300000: Goblin
+    7400000: Default Take
+    7400002: Attack-two_handed_002
+    7400004: Attack-two_handedAction
+    7400006: Attack-two_handedAction_001
+    7400008: cry_001
+    7400010: Dance-salsa
+    7400012: Die-jump-ground-face4_test
+    7400014: Happy_002
+    7400016: PoseLib_001
+    7400018: Run-flee
+    7400020: Walk-fast
+    9500000: //RootNode
+    13700000: Goblin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 45e1bfc68bc5aab4c9c3b06b6085008f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Empty
+    100002: GEO-eyeballs_proxy
+    100004: GEO-sintel_proxy
+    100006: GEO_Body
+    100008: GEO_Headscarf
+    100010: GEO_Necklace
+    100012: GEO_Shirt
+    100014: GEO_Shoes
+    100016: GEO_Skirt1
+    100018: GEO_Skirt2
+    100020: GEO_Thinsleeve
+    100022: GEO_Tights
+    100024: //RootNode
+    400000: Empty
+    400002: GEO-eyeballs_proxy
+    400004: GEO-sintel_proxy
+    400006: GEO_Body
+    400008: GEO_Headscarf
+    400010: GEO_Necklace
+    400012: GEO_Shirt
+    400014: GEO_Shoes
+    400016: GEO_Skirt1
+    400018: GEO_Skirt2
+    400020: GEO_Thinsleeve
+    400022: GEO_Tights
+    400024: //RootNode
+    2300000: GEO-eyeballs_proxy
+    2300002: GEO-sintel_proxy
+    2300004: GEO_Body
+    2300006: GEO_Headscarf
+    2300008: GEO_Necklace
+    2300010: GEO_Shirt
+    2300012: GEO_Shoes
+    2300014: GEO_Skirt1
+    2300016: GEO_Skirt2
+    2300018: GEO_Thinsleeve
+    2300020: GEO_Tights
+    3300000: GEO-eyeballs_proxy
+    3300002: GEO-sintel_proxy
+    3300004: GEO_Body
+    3300006: GEO_Headscarf
+    3300008: GEO_Necklace
+    3300010: GEO_Shirt
+    3300012: GEO_Shoes
+    3300014: GEO_Skirt1
+    3300016: GEO_Skirt2
+    3300018: GEO_Thinsleeve
+    3300020: GEO_Tights
+    4300000: GEO_Necklace
+    4300002: GEO_Shoes
+    4300004: GEO_Headscarf
+    4300006: GEO_Skirt2
+    4300008: GEO_Skirt1
+    4300010: GEO_Shirt
+    4300012: GEO_Thinsleeve
+    4300014: GEO_Body
+    4300016: GEO_Tights
+    4300018: GEO-eyeballs_proxy
+    4300020: GEO-sintel_proxy
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

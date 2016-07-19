@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c3937f3a2b0a8542aa7147d9e1bd472
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - basicBullet: {instanceID: 0}
+  - acidrain: {instanceID: 0}
+  - special1: {instanceID: 0}
+  - special2: {instanceID: 0}
+  - special3: {instanceID: 0}
+  - special4: {instanceID: 0}
+  - special5: {instanceID: 0}
+  - wizardObject: {fileID: 150230, guid: f86c9d127b088d44b8ef08d31b562ced, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
