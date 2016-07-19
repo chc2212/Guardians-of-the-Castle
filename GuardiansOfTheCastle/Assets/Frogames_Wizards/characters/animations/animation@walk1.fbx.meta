@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 896c774ff94b1104384be9379f97a740
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: base
+    100004: cam
+    100006: character2
+    100008: detail2
+    100010: eye
+    100012: head
+    100014: hips
+    100016: left_arm
+    100018: left_fingers_A
+    100020: left_fingers_B
+    100022: left_foot
+    100024: left_foot_toes
+    100026: left_foret_arm
+    100028: left_hand
+    100030: left_leg
+    100032: left_thumb
+    100034: left_up_leg
+    100036: mount0
+    100038: mount1
+    100040: mount2
+    100042: mount3
+    100044: mount4
+    100046: mount5
+    100048: mount6
+    100050: mount7
+    100052: right_arm
+    100054: right_fingers_A
+    100056: right_fingers_B
+    100058: right_foot
+    100060: right_foot_toes
+    100062: right_foret_arm
+    100064: right_hand
+    100066: right_leg
+    100068: right_thumb
+    100070: right_up_leg
+    100072: spine
+    100074: spine_up
+    100076: Unlink
+    100078: walk1
+    400000: //RootNode
+    400002: base
+    400004: cam
+    400006: character2
+    400008: detail2
+    400010: eye
+    400012: head
+    400014: hips
+    400016: left_arm
+    400018: left_fingers_A
+    400020: left_fingers_B
+    400022: left_foot
+    400024: left_foot_toes
+    400026: left_foret_arm
+    400028: left_hand
+    400030: left_leg
+    400032: left_thumb
+    400034: left_up_leg
+    400036: mount0
+    400038: mount1
+    400040: mount2
+    400042: mount3
+    400044: mount4
+    400046: mount5
+    400048: mount6
+    400050: mount7
+    400052: right_arm
+    400054: right_fingers_A
+    400056: right_fingers_B
+    400058: right_foot
+    400060: right_foot_toes
+    400062: right_foret_arm
+    400064: right_hand
+    400066: right_leg
+    400068: right_thumb
+    400070: right_up_leg
+    400072: spine
+    400074: spine_up
+    400076: Unlink
+    400078: walk1
+    4300000: character2
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: character2
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

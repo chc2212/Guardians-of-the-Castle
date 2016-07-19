@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 2a35c03569ad04d1f9e41bb644dbe311
+labels:
+- Lowpoly
+- Game
+- 3D
+- Surrealistic
+- Cartoon
+- Chimney
+- Log
+- Wooden
+- Wood
+- Medieval
+- City
+- MMO
+- RPG
+- Fantasy
+- Village
+- House
+- MiddleAges
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: House
+    100004: Chimney
+    100006: Wooden_Log
+    400000: //RootNode
+    400002: House
+    400004: Chimney
+    400006: Wooden_Log
+    2300000: House
+    2300002: Chimney
+    2300004: Wooden_Log
+    3300000: House
+    3300002: Chimney
+    3300004: Wooden_Log
+    4300000: House1:pCube1
+    4300002: House2
+    4300004: schoorsteen:polySurface1
+    4300006: wood:pCylinder1
+    4300008: House_base
+    4300010: House_Shimney
+    4300012: House_Wooden_Log
+    4300014: House_Base
+    4300016: Shimney
+    4300018: Wooden_Log
+    4300020: House
+    4300022: Chimney
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
