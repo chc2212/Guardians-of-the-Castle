@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.shader linguist-language=C#
+*.shader linguist-language='C#'
