@@ -1,5 +1,5 @@
 # Guardians-of-the-Castle
-This is Android arcade game. Player has to protect castle from an alien attack. For this, player controls wizards and attack aliens using diverse types of attack such as multiple shot, sniping, area bomb, freezing, igniting, terrain bomb, setting wall.  
+This is Android arcade game. Player has to protect castle from an alien attack. For this, player controls wizards and attack aliens using diverse types of attack such as multiple shot, sniping, area bomb, freezing, igniting, terrain bomb, setting wall.   
 
 # Features
 * Used Unity 3D, NGUI, Blender for game development
