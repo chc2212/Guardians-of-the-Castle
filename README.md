@@ -9,7 +9,8 @@ This is Android arcade game. Player has to protect castle from an alien attack. 
 * Wizard can collect the coins to gain extra gold in the first one minute
 
 
-#Game Poster
+# Game Poster
 <img src="https://github.com/chc2212/Guardians-of-the-Castle/blob/master/GuardiansOfTheCastle.png" width="500" >
-#Demo Video
+
+# Demo Video
 <img src="https://github.com/chc2212/Guardians-of-the-Castle/blob/master/20160908_234557.gif" width="500" align ="left">
